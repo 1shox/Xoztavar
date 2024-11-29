@@ -1,0 +1,162 @@
+
+.navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
+
+.navbar-logo {
+      width: 450px;
+      height: 57px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 58px;
+}
+
+.navbar-logo-text {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+}
+
+.navbar-logo-text h1 {
+      width: 160.56px;
+      height: 33.68px;
+      font-family: Coiny 2.0;
+      font-size: 32.86px;
+      font-weight: 900;
+      line-height: 36.14px;
+      text-align: center;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+      color: #444444;
+}
+
+.navbar-logo-text p {
+      width: 160px;
+      height: 9.56px;
+      top: 40.88px;
+      left: 162.35px;
+      gap: 0px;
+      opacity: 0px;
+      font-family: SF Pro Display;
+      font-size: 9.99px;
+      font-weight: 400;
+      line-height: 11.92px;
+      letter-spacing: 0.1em;
+      text-align: center;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+      color: #494949;
+}
+
+.navbar-logo button {
+      width: 200px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      color: #fff;
+      background: #E24C55;
+      border: none;
+      cursor: pointer;
+}
+
+
+
+
+
+.navbar-search div {
+      display: flex;
+      align-items: center;
+      /* margin-left: 20px; */
+}
+
+.navbar-search input {
+      width: 350px;
+      height: 40px;
+      padding-left: 10px;
+
+}
+
+.navbar-search div div {
+      width: 42px;
+      height: 40px;
+      background: #ECECEC;
+      border: 1px solid #CECDCD;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar-menu {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+
+.navbar-menu-app {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+}
+
+.navbar-menu-links {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 19px;
+}
+
+.navbar-menu-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      border: 1.83px solid #C0C0C0;
+      cursor: pointer;
+}
+
+.navbar-menu-buttons button{
+      margin-left: 20px;
+       width: 154px;
+      height: 40px;
+      background-color: #E24C55;
+      border: none;
+      border-radius: 8px;
+      color: #fff;
+}
+
+
+
+
+
+.navbar-kategorya ul{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 104px;
+      cursor: pointer;
+      list-style: none;
+      padding: 20px;
+}
